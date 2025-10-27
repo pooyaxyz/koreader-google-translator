@@ -33,7 +33,7 @@ Easy access to language settings and configuration options.
 
 ### Method 1: Manual Installation (Recommended)
 
-1. **Download the plugin files** from the [latest release](https://github.com/YOUR-USERNAME/koreader-google-translator/releases)
+1. **Download the plugin files** from the [latest release](https://github.com/pooyaxyz/koreader-google-translator/releases)
 
 2. **Connect your device** to your computer via USB
 
@@ -70,7 +70,7 @@ If you have SSH access to your device:
 
 ```bash
 cd /mnt/us/koreader/plugins/
-git clone https://github.com/YOUR-USERNAME/koreader-google-translator.git googletranslator.koplugin
+git clone https://github.com/pooyaxyz/koreader-google-translator.git googletranslator.koplugin
 ```
 
 Then restart KOReader and enable the plugin.
@@ -295,7 +295,7 @@ Contributions are welcome! Here's how you can help:
 
 ### Report Bugs
 
-1. Go to [Issues](https://github.com/YOUR-USERNAME/koreader-google-translator/issues)
+1. Go to [Issues](https://github.com/pooyaxyz/koreader-google-translator/issues)
 2. Click "New Issue"
 3. Include:
    - Device model and KOReader version
@@ -306,7 +306,7 @@ Contributions are welcome! Here's how you can help:
 
 ### Suggest Features
 
-1. Open a new [Issue](https://github.com/YOUR-USERNAME/koreader-google-translator/issues)
+1. Open a new [Issue](https://github.com/pooyaxyz/koreader-google-translator/issues)
 2. Describe the feature
 3. Explain the use case
 4. Why it would be useful
@@ -357,13 +357,13 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 ### Found this useful?
 
 - ⭐ **Star this repository** on GitHub
-- 🐛 **Report bugs** via [Issues](https://github.com/YOUR-USERNAME/koreader-google-translator/issues)
-- 💡 **Suggest features** via [Issues](https://github.com/YOUR-USERNAME/koreader-google-translator/issues)
+- 🐛 **Report bugs** via [Issues](https://github.com/pooyaxyz/koreader-google-translator/issues)
+- 💡 **Suggest features** via [Issues](https://github.com/pooyaxyz/koreader-google-translator/issues)
 - 🔀 **Contribute** via Pull Requests
 
 ### Get Help
 
-- **Issues:** [GitHub Issues](https://github.com/YOUR-USERNAME/koreader-google-translator/issues)
+- **Issues:** [GitHub Issues](https://github.com/pooyaxyz/koreader-google-translator/issues)
 - **KOReader Forum:** [MobileRead Forums](https://www.mobileread.com/forums/forumdisplay.php?f=276)
 - **KOReader Wiki:** [Official Documentation](https://github.com/koreader/koreader/wiki)
 
@@ -403,7 +403,7 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 - [ ] Translation memory
 - [ ] Custom dictionaries
 
-*Vote for features or suggest new ones in [Issues](https://github.com/YOUR-USERNAME/koreader-google-translator/issues)!*
+*Vote for features or suggest new ones in [Issues](https://github.com/pooyaxyz/koreader-google-translator/issues)!*
 
 ## FAQ
 
@@ -437,14 +437,15 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 
 ## Links
 
-- **GitHub Repository:** https://github.com/YOUR-USERNAME/koreader-google-translator
-- **Latest Release:** https://github.com/YOUR-USERNAME/koreader-google-translator/releases/latest
-- **Report Issues:** https://github.com/YOUR-USERNAME/koreader-google-translator/issues
+- **GitHub Repository:** https://github.com/pooyaxyz/koreader-google-translator
+- **Latest Release:** https://github.com/pooyaxyz/koreader-google-translator/releases/latest
+- **Report Issues:** https://github.com/pooyaxyz/koreader-google-translator/issues
 - **KOReader Official Site:** https://koreader.rocks
 - **KOReader GitHub:** https://github.com/koreader/koreader
 
 ---
 
 **Made with ❤️ for the KOReader community**
+
 
 *If you find this plugin useful, please consider starring the repository!*
