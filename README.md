@@ -350,7 +350,7 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 
 ## Author
 
-**Your Name** ([@your-github-username](https://github.com/YOUR-USERNAME))
+**pooyaxyz** ([@pooyaxyz](https://github.com/pooyaxyz))
 
 ## Support
 
@@ -449,3 +449,4 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 
 
 *If you find this plugin useful, please consider starring the repository!*
+
